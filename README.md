@@ -67,8 +67,6 @@ This practical was very helpful and informative. Although the implementation was
 
 ## Challenges Faced
 
-## Challenges Faced
-
 1. During Task 1, handling duplicate and missing values was challenging, as both were initially being counted together. This was resolved by separating the logic for identifying duplicate records and records removed due to missing mandatory fields. Additionally, writing sample data representation using a Markdown (.md) file was new to me and required extra attention to formatting. Another issue faced was that the `order_items` table remained empty initially, which was later fixed by correcting the data insertion logic.
 
 2. In Task 2, setting up MongoDB was a challenge as it had to be downloaded and configured again. Understanding how to run MongoDB operations using the provided sample JSON data took some time, but it helped me understand NoSQL concepts better.
