@@ -1,0 +1,8 @@
+Customers records read: 26
+Products records read: 20
+Sales records read: 41
+Customer duplicate records identified: 1
+Customer records removed due to missing mandatory fields: 5
+Customer records removed during cleaning (total): 6
+Product duplicates removed: 0
+Data loaded successfully into database.
